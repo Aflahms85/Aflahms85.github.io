@@ -37,7 +37,7 @@
         <h2>Select a Language</h2>
         
         <a href="Arabic">Arabic </a>
-        <a href="pdf2.html">Urdu </a>
+        <a href="Urdu">Urdu </a>
     </div>
 </body>
 </html>
