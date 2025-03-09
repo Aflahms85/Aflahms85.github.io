@@ -1,10 +1,10 @@
-/* Main Page (index.html) */
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Main Page</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -34,9 +34,9 @@
     </style>
 </head>
 <body>
-    <div class="container">
-        <a href="page1.html">Arabic</a>
-        <a href="page2.html">Urdu</a>
-    </div>
+    <nav class="container">
+        <a href="page1.html" aria-label="Go to Arabic page">Arabic</a>
+        <a href="page2.html" aria-label="Go to Urdu page">Urdu</a>
+    </nav>
 </body>
 </html>
