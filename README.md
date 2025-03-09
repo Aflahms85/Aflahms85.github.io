@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PDF Viewer Page</title>
+    <title>PDF Viewer</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -22,15 +22,16 @@
             width: 100%;
             height: 500px;
             border: none;
+            margin-top: 20px;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h2>View Your PDFs</h2>
-        <p>Read the PDF files directly below.</p>
-        <iframe src="خطبة الجمعة 29 شعبان Arabic .pdf"></iframe>
-        <iframe src="your-file2.pdf"></iframe>
+        <h2>Read Your PDFs</h2>
+        <p>View the PDF files directly below.</p>
+        <iframe src="pdf1.pdf"></iframe>
+        <iframe src="pdf2.pdf"></iframe>
     </div>
 </body>
 </html>
