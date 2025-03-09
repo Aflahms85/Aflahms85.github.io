@@ -30,8 +30,8 @@
     <div class="container">
         <h2>Read Your PDFs</h2>
         <p>View the PDF files directly below.</p>
-        <iframe src="pdf1.pdf"></iframe>
-        <iframe src="pdf2.pdf"></iframe>
+        <iframe src="خطبة الجمعة 29 شعبان Arabic .pdf"></iframe>
+        <iframe src="خطبة الجمعة 29 شعبان Urdu.pdf"></iframe>
     </div>
 </body>
 </html>
