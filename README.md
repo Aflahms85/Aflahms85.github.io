@@ -35,7 +35,7 @@
 <body>
     <div class="container">
         <h2>Select a Language</h2>
-        <p>Click a button below to open the PDF file.</p>
+        
         <a href="pdf1.html">Arabic </a>
         <a href="pdf2.html">Urdu </a>
     </div>
