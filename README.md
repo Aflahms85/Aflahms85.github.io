@@ -36,7 +36,7 @@
     <div class="container">
         <h2>Select a Language</h2>
         
-        <a href="pdf1.html">Arabic </a>
+        <a href="Arabic">Arabic </a>
         <a href="pdf2.html">Urdu </a>
     </div>
 </body>
