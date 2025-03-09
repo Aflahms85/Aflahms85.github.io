@@ -35,8 +35,8 @@
 </head>
 <body>
     <nav class="container">
-        <a href="page1.html" aria-label="Go to Arabic page">Arabic</a>
-        <a href="page2.html" aria-label="Go to Urdu page">Urdu</a>
+        <a href="page1.html" aria-label="Arabic">Arabic</a>
+        <a href="page2.html" aria-label="Urdu">Urdu</a>
     </nav>
 </body>
 </html>
