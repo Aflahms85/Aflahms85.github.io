@@ -36,7 +36,7 @@
     <div class="container">
         <h2>Select a Language</h2>
         
-        <a href="Arabic">Arabic </a>
+        <a href="[Arabic](https://github.com/Aflahms85/Aflahms85.github.io/blob/156f4da977208c824ea57b0a8fd96531ebaf39d6/Arabic)">Arabic </a>
         <a href="Urdu">Urdu </a>
     </div>
 </body>
